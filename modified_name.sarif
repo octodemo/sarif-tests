@@ -1,0 +1,4197 @@
+{
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.4.json",
+  "version": "2.1.0",
+  "runs": [
+    {
+      "tool": {
+        "driver": {
+          "name": "Anchore Container Vulnerability Report",
+          "fullName": "Anchore Container Vulnerability Report",
+          "version": "0.1.0",
+          "semanticVersion": "0.1.0",
+          "dottedQuadFileVersion": "0.1.0.0",
+          "rules": [
+            {
+              "id": "ANCHOREVULN_CVE-2019-9893_deb_libseccomp2_2.3.3-4",
+              "shortDescription": {
+                "text": "CVE-2019-9893 Severity=Negligible Package=libseccomp2 Version=2.3.3-4"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-9893 Severity=Negligible Package=libseccomp2 Version=2.3.3-4"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-9893\nSeverity: Negligible\nPackage: libseccomp2\nVersion: 2.3.3-4\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2019-9893](https://security-tracker.debian.org/tracker/CVE-2019-9893)",
+                "markdown": "**Vulnerability CVE-2019-9893**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libseccomp2|2.3.3-4|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2019-9893](https://security-tracker.debian.org/tracker/CVE-2019-9893)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-3844_deb_libsystemd0_241-7~deb10u4",
+              "shortDescription": {
+                "text": "CVE-2019-3844 Severity=Medium Package=libsystemd0 Version=241-7~deb10u4"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-3844 Severity=Medium Package=libsystemd0 Version=241-7~deb10u4"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-3844\nSeverity: Medium\nPackage: libsystemd0\nVersion: 241-7~deb10u4\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2019-3844](https://security-tracker.debian.org/tracker/CVE-2019-3844)",
+                "markdown": "**Vulnerability CVE-2019-3844**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Medium|libsystemd0|241-7~deb10u4|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2019-3844](https://security-tracker.debian.org/tracker/CVE-2019-3844)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-3843_deb_libsystemd0_241-7~deb10u4",
+              "shortDescription": {
+                "text": "CVE-2019-3843 Severity=Medium Package=libsystemd0 Version=241-7~deb10u4"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-3843 Severity=Medium Package=libsystemd0 Version=241-7~deb10u4"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-3843\nSeverity: Medium\nPackage: libsystemd0\nVersion: 241-7~deb10u4\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2019-3843](https://security-tracker.debian.org/tracker/CVE-2019-3843)",
+                "markdown": "**Vulnerability CVE-2019-3843**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Medium|libsystemd0|241-7~deb10u4|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2019-3843](https://security-tracker.debian.org/tracker/CVE-2019-3843)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2013-4392_deb_libsystemd0_241-7~deb10u4",
+              "shortDescription": {
+                "text": "CVE-2013-4392 Severity=Negligible Package=libsystemd0 Version=241-7~deb10u4"
+              },
+              "fullDescription": {
+                "text": "CVE-2013-4392 Severity=Negligible Package=libsystemd0 Version=241-7~deb10u4"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2013-4392\nSeverity: Negligible\nPackage: libsystemd0\nVersion: 241-7~deb10u4\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2013-4392](https://security-tracker.debian.org/tracker/CVE-2013-4392)",
+                "markdown": "**Vulnerability CVE-2013-4392**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libsystemd0|241-7~deb10u4|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2013-4392](https://security-tracker.debian.org/tracker/CVE-2013-4392)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-20386_deb_libsystemd0_241-7~deb10u4",
+              "shortDescription": {
+                "text": "CVE-2019-20386 Severity=Negligible Package=libsystemd0 Version=241-7~deb10u4"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-20386 Severity=Negligible Package=libsystemd0 Version=241-7~deb10u4"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-20386\nSeverity: Negligible\nPackage: libsystemd0\nVersion: 241-7~deb10u4\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2019-20386](https://security-tracker.debian.org/tracker/CVE-2019-20386)",
+                "markdown": "**Vulnerability CVE-2019-20386**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libsystemd0|241-7~deb10u4|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2019-20386](https://security-tracker.debian.org/tracker/CVE-2019-20386)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2020-13776_deb_libsystemd0_241-7~deb10u4",
+              "shortDescription": {
+                "text": "CVE-2020-13776 Severity=Negligible Package=libsystemd0 Version=241-7~deb10u4"
+              },
+              "fullDescription": {
+                "text": "CVE-2020-13776 Severity=Negligible Package=libsystemd0 Version=241-7~deb10u4"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2020-13776\nSeverity: Negligible\nPackage: libsystemd0\nVersion: 241-7~deb10u4\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2020-13776](https://security-tracker.debian.org/tracker/CVE-2020-13776)",
+                "markdown": "**Vulnerability CVE-2020-13776**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libsystemd0|241-7~deb10u4|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2020-13776](https://security-tracker.debian.org/tracker/CVE-2020-13776)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2007-5686_deb_login_1:4.5-1.1",
+              "shortDescription": {
+                "text": "CVE-2007-5686 Severity=Negligible Package=login Version=1:4.5-1.1"
+              },
+              "fullDescription": {
+                "text": "CVE-2007-5686 Severity=Negligible Package=login Version=1:4.5-1.1"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2007-5686\nSeverity: Negligible\nPackage: login\nVersion: 1:4.5-1.1\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2007-5686](https://security-tracker.debian.org/tracker/CVE-2007-5686)",
+                "markdown": "**Vulnerability CVE-2007-5686**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|login|1:4.5-1.1|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2007-5686](https://security-tracker.debian.org/tracker/CVE-2007-5686)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2013-4235_deb_login_1:4.5-1.1",
+              "shortDescription": {
+                "text": "CVE-2013-4235 Severity=Negligible Package=login Version=1:4.5-1.1"
+              },
+              "fullDescription": {
+                "text": "CVE-2013-4235 Severity=Negligible Package=login Version=1:4.5-1.1"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2013-4235\nSeverity: Negligible\nPackage: login\nVersion: 1:4.5-1.1\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2013-4235](https://security-tracker.debian.org/tracker/CVE-2013-4235)",
+                "markdown": "**Vulnerability CVE-2013-4235**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|login|1:4.5-1.1|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2013-4235](https://security-tracker.debian.org/tracker/CVE-2013-4235)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-19882_deb_login_1:4.5-1.1",
+              "shortDescription": {
+                "text": "CVE-2019-19882 Severity=Negligible Package=login Version=1:4.5-1.1"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-19882 Severity=Negligible Package=login Version=1:4.5-1.1"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-19882\nSeverity: Negligible\nPackage: login\nVersion: 1:4.5-1.1\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2019-19882](https://security-tracker.debian.org/tracker/CVE-2019-19882)",
+                "markdown": "**Vulnerability CVE-2019-19882**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|login|1:4.5-1.1|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2019-19882](https://security-tracker.debian.org/tracker/CVE-2019-19882)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2018-7169_deb_login_1:4.5-1.1",
+              "shortDescription": {
+                "text": "CVE-2018-7169 Severity=Low Package=login Version=1:4.5-1.1"
+              },
+              "fullDescription": {
+                "text": "CVE-2018-7169 Severity=Low Package=login Version=1:4.5-1.1"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2018-7169\nSeverity: Low\nPackage: login\nVersion: 1:4.5-1.1\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2018-7169](https://security-tracker.debian.org/tracker/CVE-2018-7169)",
+                "markdown": "**Vulnerability CVE-2018-7169**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Low|login|1:4.5-1.1|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2018-7169](https://security-tracker.debian.org/tracker/CVE-2018-7169)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2011-3374_deb_apt_1.8.2.1",
+              "shortDescription": {
+                "text": "CVE-2011-3374 Severity=Negligible Package=apt Version=1.8.2.1"
+              },
+              "fullDescription": {
+                "text": "CVE-2011-3374 Severity=Negligible Package=apt Version=1.8.2.1"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2011-3374\nSeverity: Negligible\nPackage: apt\nVersion: 1.8.2.1\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2011-3374](https://security-tracker.debian.org/tracker/CVE-2011-3374)",
+                "markdown": "**Vulnerability CVE-2011-3374**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|apt|1.8.2.1|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2011-3374](https://security-tracker.debian.org/tracker/CVE-2011-3374)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-18276_deb_bash_5.0-4",
+              "shortDescription": {
+                "text": "CVE-2019-18276 Severity=Negligible Package=bash Version=5.0-4"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-18276 Severity=Negligible Package=bash Version=5.0-4"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-18276\nSeverity: Negligible\nPackage: bash\nVersion: 5.0-4\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2019-18276](https://security-tracker.debian.org/tracker/CVE-2019-18276)",
+                "markdown": "**Vulnerability CVE-2019-18276**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|bash|5.0-4|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2019-18276](https://security-tracker.debian.org/tracker/CVE-2019-18276)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2016-2781_deb_coreutils_8.30-3",
+              "shortDescription": {
+                "text": "CVE-2016-2781 Severity=Low Package=coreutils Version=8.30-3"
+              },
+              "fullDescription": {
+                "text": "CVE-2016-2781 Severity=Low Package=coreutils Version=8.30-3"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2016-2781\nSeverity: Low\nPackage: coreutils\nVersion: 8.30-3\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2016-2781](https://security-tracker.debian.org/tracker/CVE-2016-2781)",
+                "markdown": "**Vulnerability CVE-2016-2781**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Low|coreutils|8.30-3|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2016-2781](https://security-tracker.debian.org/tracker/CVE-2016-2781)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2017-18018_deb_coreutils_8.30-3",
+              "shortDescription": {
+                "text": "CVE-2017-18018 Severity=Negligible Package=coreutils Version=8.30-3"
+              },
+              "fullDescription": {
+                "text": "CVE-2017-18018 Severity=Negligible Package=coreutils Version=8.30-3"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2017-18018\nSeverity: Negligible\nPackage: coreutils\nVersion: 8.30-3\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2017-18018](https://security-tracker.debian.org/tracker/CVE-2017-18018)",
+                "markdown": "**Vulnerability CVE-2017-18018**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|coreutils|8.30-3|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2017-18018](https://security-tracker.debian.org/tracker/CVE-2017-18018)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-9192_deb_libc6_2.28-10",
+              "shortDescription": {
+                "text": "CVE-2019-9192 Severity=Negligible Package=libc6 Version=2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-9192 Severity=Negligible Package=libc6 Version=2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-9192\nSeverity: Negligible\nPackage: libc6\nVersion: 2.28-10\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2019-9192](https://security-tracker.debian.org/tracker/CVE-2019-9192)",
+                "markdown": "**Vulnerability CVE-2019-9192**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc6|2.28-10|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2019-9192](https://security-tracker.debian.org/tracker/CVE-2019-9192)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-1010023_deb_libc6_2.28-10",
+              "shortDescription": {
+                "text": "CVE-2019-1010023 Severity=Negligible Package=libc6 Version=2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-1010023 Severity=Negligible Package=libc6 Version=2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-1010023\nSeverity: Negligible\nPackage: libc6\nVersion: 2.28-10\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2019-1010023](https://security-tracker.debian.org/tracker/CVE-2019-1010023)",
+                "markdown": "**Vulnerability CVE-2019-1010023**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc6|2.28-10|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2019-1010023](https://security-tracker.debian.org/tracker/CVE-2019-1010023)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-1010024_deb_libc6_2.28-10",
+              "shortDescription": {
+                "text": "CVE-2019-1010024 Severity=Negligible Package=libc6 Version=2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-1010024 Severity=Negligible Package=libc6 Version=2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-1010024\nSeverity: Negligible\nPackage: libc6\nVersion: 2.28-10\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2019-1010024](https://security-tracker.debian.org/tracker/CVE-2019-1010024)",
+                "markdown": "**Vulnerability CVE-2019-1010024**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc6|2.28-10|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2019-1010024](https://security-tracker.debian.org/tracker/CVE-2019-1010024)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-1010025_deb_libc6_2.28-10",
+              "shortDescription": {
+                "text": "CVE-2019-1010025 Severity=Negligible Package=libc6 Version=2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-1010025 Severity=Negligible Package=libc6 Version=2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-1010025\nSeverity: Negligible\nPackage: libc6\nVersion: 2.28-10\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2019-1010025](https://security-tracker.debian.org/tracker/CVE-2019-1010025)",
+                "markdown": "**Vulnerability CVE-2019-1010025**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc6|2.28-10|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2019-1010025](https://security-tracker.debian.org/tracker/CVE-2019-1010025)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2018-20796_deb_libc6_2.28-10",
+              "shortDescription": {
+                "text": "CVE-2018-20796 Severity=Negligible Package=libc6 Version=2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2018-20796 Severity=Negligible Package=libc6 Version=2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2018-20796\nSeverity: Negligible\nPackage: libc6\nVersion: 2.28-10\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2018-20796](https://security-tracker.debian.org/tracker/CVE-2018-20796)",
+                "markdown": "**Vulnerability CVE-2018-20796**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc6|2.28-10|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2018-20796](https://security-tracker.debian.org/tracker/CVE-2018-20796)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2010-4052_deb_libc6_2.28-10",
+              "shortDescription": {
+                "text": "CVE-2010-4052 Severity=Negligible Package=libc6 Version=2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2010-4052 Severity=Negligible Package=libc6 Version=2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2010-4052\nSeverity: Negligible\nPackage: libc6\nVersion: 2.28-10\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2010-4052](https://security-tracker.debian.org/tracker/CVE-2010-4052)",
+                "markdown": "**Vulnerability CVE-2010-4052**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc6|2.28-10|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2010-4052](https://security-tracker.debian.org/tracker/CVE-2010-4052)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2010-4051_deb_libc6_2.28-10",
+              "shortDescription": {
+                "text": "CVE-2010-4051 Severity=Negligible Package=libc6 Version=2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2010-4051 Severity=Negligible Package=libc6 Version=2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2010-4051\nSeverity: Negligible\nPackage: libc6\nVersion: 2.28-10\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2010-4051](https://security-tracker.debian.org/tracker/CVE-2010-4051)",
+                "markdown": "**Vulnerability CVE-2010-4051**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc6|2.28-10|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2010-4051](https://security-tracker.debian.org/tracker/CVE-2010-4051)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2020-10029_deb_libc6_2.28-10",
+              "shortDescription": {
+                "text": "CVE-2020-10029 Severity=Low Package=libc6 Version=2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2020-10029 Severity=Low Package=libc6 Version=2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2020-10029\nSeverity: Low\nPackage: libc6\nVersion: 2.28-10\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2020-10029](https://security-tracker.debian.org/tracker/CVE-2020-10029)",
+                "markdown": "**Vulnerability CVE-2020-10029**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Low|libc6|2.28-10|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2020-10029](https://security-tracker.debian.org/tracker/CVE-2020-10029)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-19126_deb_libc6_2.28-10",
+              "shortDescription": {
+                "text": "CVE-2019-19126 Severity=Low Package=libc6 Version=2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-19126 Severity=Low Package=libc6 Version=2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-19126\nSeverity: Low\nPackage: libc6\nVersion: 2.28-10\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2019-19126](https://security-tracker.debian.org/tracker/CVE-2019-19126)",
+                "markdown": "**Vulnerability CVE-2019-19126**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Low|libc6|2.28-10|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2019-19126](https://security-tracker.debian.org/tracker/CVE-2019-19126)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2010-4756_deb_libc6_2.28-10",
+              "shortDescription": {
+                "text": "CVE-2010-4756 Severity=Negligible Package=libc6 Version=2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2010-4756 Severity=Negligible Package=libc6 Version=2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2010-4756\nSeverity: Negligible\nPackage: libc6\nVersion: 2.28-10\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2010-4756](https://security-tracker.debian.org/tracker/CVE-2010-4756)",
+                "markdown": "**Vulnerability CVE-2010-4756**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc6|2.28-10|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2010-4756](https://security-tracker.debian.org/tracker/CVE-2010-4756)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-1010022_deb_libc6_2.28-10",
+              "shortDescription": {
+                "text": "CVE-2019-1010022 Severity=Negligible Package=libc6 Version=2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-1010022 Severity=Negligible Package=libc6 Version=2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-1010022\nSeverity: Negligible\nPackage: libc6\nVersion: 2.28-10\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2019-1010022](https://security-tracker.debian.org/tracker/CVE-2019-1010022)",
+                "markdown": "**Vulnerability CVE-2019-1010022**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc6|2.28-10|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2019-1010022](https://security-tracker.debian.org/tracker/CVE-2019-1010022)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2016-10228_deb_libc6_2.28-10",
+              "shortDescription": {
+                "text": "CVE-2016-10228 Severity=Low Package=libc6 Version=2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2016-10228 Severity=Low Package=libc6 Version=2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2016-10228\nSeverity: Low\nPackage: libc6\nVersion: 2.28-10\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2016-10228](https://security-tracker.debian.org/tracker/CVE-2016-10228)",
+                "markdown": "**Vulnerability CVE-2016-10228**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Low|libc6|2.28-10|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2016-10228](https://security-tracker.debian.org/tracker/CVE-2016-10228)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2020-1751_deb_libc6_2.28-10",
+              "shortDescription": {
+                "text": "CVE-2020-1751 Severity=Medium Package=libc6 Version=2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2020-1751 Severity=Medium Package=libc6 Version=2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2020-1751\nSeverity: Medium\nPackage: libc6\nVersion: 2.28-10\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2020-1751](https://security-tracker.debian.org/tracker/CVE-2020-1751)",
+                "markdown": "**Vulnerability CVE-2020-1751**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Medium|libc6|2.28-10|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2020-1751](https://security-tracker.debian.org/tracker/CVE-2020-1751)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2020-1752_deb_libc6_2.28-10",
+              "shortDescription": {
+                "text": "CVE-2020-1752 Severity=Low Package=libc6 Version=2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2020-1752 Severity=Low Package=libc6 Version=2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2020-1752\nSeverity: Low\nPackage: libc6\nVersion: 2.28-10\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2020-1752](https://security-tracker.debian.org/tracker/CVE-2020-1752)",
+                "markdown": "**Vulnerability CVE-2020-1752**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Low|libc6|2.28-10|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2020-1752](https://security-tracker.debian.org/tracker/CVE-2020-1752)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2020-6096_deb_libc6_2.28-10",
+              "shortDescription": {
+                "text": "CVE-2020-6096 Severity=Low Package=libc6 Version=2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2020-6096 Severity=Low Package=libc6 Version=2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2020-6096\nSeverity: Low\nPackage: libc6\nVersion: 2.28-10\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2020-6096](https://security-tracker.debian.org/tracker/CVE-2020-6096)",
+                "markdown": "**Vulnerability CVE-2020-6096**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Low|libc6|2.28-10|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2020-6096](https://security-tracker.debian.org/tracker/CVE-2020-6096)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2011-3389_deb_libgnutls30_3.6.7-4+deb10u4",
+              "shortDescription": {
+                "text": "CVE-2011-3389 Severity=Medium Package=libgnutls30 Version=3.6.7-4+deb10u4"
+              },
+              "fullDescription": {
+                "text": "CVE-2011-3389 Severity=Medium Package=libgnutls30 Version=3.6.7-4+deb10u4"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2011-3389\nSeverity: Medium\nPackage: libgnutls30\nVersion: 3.6.7-4+deb10u4\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2011-3389](https://security-tracker.debian.org/tracker/CVE-2011-3389)",
+                "markdown": "**Vulnerability CVE-2011-3389**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Medium|libgnutls30|3.6.7-4+deb10u4|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2011-3389](https://security-tracker.debian.org/tracker/CVE-2011-3389)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2020-24659_deb_libgnutls30_3.6.7-4+deb10u4",
+              "shortDescription": {
+                "text": "CVE-2020-24659 Severity=Medium Package=libgnutls30 Version=3.6.7-4+deb10u4"
+              },
+              "fullDescription": {
+                "text": "CVE-2020-24659 Severity=Medium Package=libgnutls30 Version=3.6.7-4+deb10u4"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2020-24659\nSeverity: Medium\nPackage: libgnutls30\nVersion: 3.6.7-4+deb10u4\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2020-24659](https://security-tracker.debian.org/tracker/CVE-2020-24659)",
+                "markdown": "**Vulnerability CVE-2020-24659**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Medium|libgnutls30|3.6.7-4+deb10u4|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2020-24659](https://security-tracker.debian.org/tracker/CVE-2020-24659)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2011-4116_deb_perl-base_5.28.1-6",
+              "shortDescription": {
+                "text": "CVE-2011-4116 Severity=Negligible Package=perl-base Version=5.28.1-6"
+              },
+              "fullDescription": {
+                "text": "CVE-2011-4116 Severity=Negligible Package=perl-base Version=5.28.1-6"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2011-4116\nSeverity: Negligible\nPackage: perl-base\nVersion: 5.28.1-6\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2011-4116](https://security-tracker.debian.org/tracker/CVE-2011-4116)",
+                "markdown": "**Vulnerability CVE-2011-4116**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|perl-base|5.28.1-6|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2011-4116](https://security-tracker.debian.org/tracker/CVE-2011-4116)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2020-10878_deb_perl-base_5.28.1-6",
+              "shortDescription": {
+                "text": "CVE-2020-10878 Severity=High Package=perl-base Version=5.28.1-6"
+              },
+              "fullDescription": {
+                "text": "CVE-2020-10878 Severity=High Package=perl-base Version=5.28.1-6"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2020-10878\nSeverity: High\nPackage: perl-base\nVersion: 5.28.1-6\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2020-10878](https://security-tracker.debian.org/tracker/CVE-2020-10878)",
+                "markdown": "**Vulnerability CVE-2020-10878**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|High|perl-base|5.28.1-6|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2020-10878](https://security-tracker.debian.org/tracker/CVE-2020-10878)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2020-12723_deb_perl-base_5.28.1-6",
+              "shortDescription": {
+                "text": "CVE-2020-12723 Severity=Medium Package=perl-base Version=5.28.1-6"
+              },
+              "fullDescription": {
+                "text": "CVE-2020-12723 Severity=Medium Package=perl-base Version=5.28.1-6"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2020-12723\nSeverity: Medium\nPackage: perl-base\nVersion: 5.28.1-6\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2020-12723](https://security-tracker.debian.org/tracker/CVE-2020-12723)",
+                "markdown": "**Vulnerability CVE-2020-12723**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Medium|perl-base|5.28.1-6|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2020-12723](https://security-tracker.debian.org/tracker/CVE-2020-12723)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2020-10543_deb_perl-base_5.28.1-6",
+              "shortDescription": {
+                "text": "CVE-2020-10543 Severity=Medium Package=perl-base Version=5.28.1-6"
+              },
+              "fullDescription": {
+                "text": "CVE-2020-10543 Severity=Medium Package=perl-base Version=5.28.1-6"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2020-10543\nSeverity: Medium\nPackage: perl-base\nVersion: 5.28.1-6\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2020-10543](https://security-tracker.debian.org/tracker/CVE-2020-10543)",
+                "markdown": "**Vulnerability CVE-2020-10543**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Medium|perl-base|5.28.1-6|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2020-10543](https://security-tracker.debian.org/tracker/CVE-2020-10543)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-14855_deb_gpgv_2.2.12-1+deb10u1",
+              "shortDescription": {
+                "text": "CVE-2019-14855 Severity=Low Package=gpgv Version=2.2.12-1+deb10u1"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-14855 Severity=Low Package=gpgv Version=2.2.12-1+deb10u1"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-14855\nSeverity: Low\nPackage: gpgv\nVersion: 2.2.12-1+deb10u1\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2019-14855](https://security-tracker.debian.org/tracker/CVE-2019-14855)",
+                "markdown": "**Vulnerability CVE-2019-14855**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Low|gpgv|2.2.12-1+deb10u1|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2019-14855](https://security-tracker.debian.org/tracker/CVE-2019-14855)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-12290_deb_libidn2-0_2.0.5-1+deb10u1",
+              "shortDescription": {
+                "text": "CVE-2019-12290 Severity=Medium Package=libidn2-0 Version=2.0.5-1+deb10u1"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-12290 Severity=Medium Package=libidn2-0 Version=2.0.5-1+deb10u1"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-12290\nSeverity: Medium\nPackage: libidn2-0\nVersion: 2.0.5-1+deb10u1\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2019-12290](https://security-tracker.debian.org/tracker/CVE-2019-12290)",
+                "markdown": "**Vulnerability CVE-2019-12290**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Medium|libidn2-0|2.0.5-1+deb10u1|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2019-12290](https://security-tracker.debian.org/tracker/CVE-2019-12290)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2017-7245_deb_libpcre3_2:8.39-12",
+              "shortDescription": {
+                "text": "CVE-2017-7245 Severity=Negligible Package=libpcre3 Version=2:8.39-12"
+              },
+              "fullDescription": {
+                "text": "CVE-2017-7245 Severity=Negligible Package=libpcre3 Version=2:8.39-12"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2017-7245\nSeverity: Negligible\nPackage: libpcre3\nVersion: 2:8.39-12\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2017-7245](https://security-tracker.debian.org/tracker/CVE-2017-7245)",
+                "markdown": "**Vulnerability CVE-2017-7245**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libpcre3|2:8.39-12|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2017-7245](https://security-tracker.debian.org/tracker/CVE-2017-7245)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2017-11164_deb_libpcre3_2:8.39-12",
+              "shortDescription": {
+                "text": "CVE-2017-11164 Severity=Negligible Package=libpcre3 Version=2:8.39-12"
+              },
+              "fullDescription": {
+                "text": "CVE-2017-11164 Severity=Negligible Package=libpcre3 Version=2:8.39-12"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2017-11164\nSeverity: Negligible\nPackage: libpcre3\nVersion: 2:8.39-12\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2017-11164](https://security-tracker.debian.org/tracker/CVE-2017-11164)",
+                "markdown": "**Vulnerability CVE-2017-11164**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libpcre3|2:8.39-12|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2017-11164](https://security-tracker.debian.org/tracker/CVE-2017-11164)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2017-7246_deb_libpcre3_2:8.39-12",
+              "shortDescription": {
+                "text": "CVE-2017-7246 Severity=Negligible Package=libpcre3 Version=2:8.39-12"
+              },
+              "fullDescription": {
+                "text": "CVE-2017-7246 Severity=Negligible Package=libpcre3 Version=2:8.39-12"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2017-7246\nSeverity: Negligible\nPackage: libpcre3\nVersion: 2:8.39-12\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2017-7246](https://security-tracker.debian.org/tracker/CVE-2017-7246)",
+                "markdown": "**Vulnerability CVE-2017-7246**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libpcre3|2:8.39-12|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2017-7246](https://security-tracker.debian.org/tracker/CVE-2017-7246)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2017-16231_deb_libpcre3_2:8.39-12",
+              "shortDescription": {
+                "text": "CVE-2017-16231 Severity=Negligible Package=libpcre3 Version=2:8.39-12"
+              },
+              "fullDescription": {
+                "text": "CVE-2017-16231 Severity=Negligible Package=libpcre3 Version=2:8.39-12"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2017-16231\nSeverity: Negligible\nPackage: libpcre3\nVersion: 2:8.39-12\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2017-16231](https://security-tracker.debian.org/tracker/CVE-2017-16231)",
+                "markdown": "**Vulnerability CVE-2017-16231**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libpcre3|2:8.39-12|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2017-16231](https://security-tracker.debian.org/tracker/CVE-2017-16231)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2020-14155_deb_libpcre3_2:8.39-12",
+              "shortDescription": {
+                "text": "CVE-2020-14155 Severity=Medium Package=libpcre3 Version=2:8.39-12"
+              },
+              "fullDescription": {
+                "text": "CVE-2020-14155 Severity=Medium Package=libpcre3 Version=2:8.39-12"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2020-14155\nSeverity: Medium\nPackage: libpcre3\nVersion: 2:8.39-12\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2020-14155](https://security-tracker.debian.org/tracker/CVE-2020-14155)",
+                "markdown": "**Vulnerability CVE-2020-14155**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Medium|libpcre3|2:8.39-12|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2020-14155](https://security-tracker.debian.org/tracker/CVE-2020-14155)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-20838_deb_libpcre3_2:8.39-12",
+              "shortDescription": {
+                "text": "CVE-2019-20838 Severity=Negligible Package=libpcre3 Version=2:8.39-12"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-20838 Severity=Negligible Package=libpcre3 Version=2:8.39-12"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-20838\nSeverity: Negligible\nPackage: libpcre3\nVersion: 2:8.39-12\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2019-20838](https://security-tracker.debian.org/tracker/CVE-2019-20838)",
+                "markdown": "**Vulnerability CVE-2019-20838**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libpcre3|2:8.39-12|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2019-20838](https://security-tracker.debian.org/tracker/CVE-2019-20838)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2018-12886_deb_libstdc++6_8.3.0-6",
+              "shortDescription": {
+                "text": "CVE-2018-12886 Severity=Medium Package=libstdc++6 Version=8.3.0-6"
+              },
+              "fullDescription": {
+                "text": "CVE-2018-12886 Severity=Medium Package=libstdc++6 Version=8.3.0-6"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2018-12886\nSeverity: Medium\nPackage: libstdc++6\nVersion: 8.3.0-6\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2018-12886](https://security-tracker.debian.org/tracker/CVE-2018-12886)",
+                "markdown": "**Vulnerability CVE-2018-12886**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Medium|libstdc++6|8.3.0-6|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2018-12886](https://security-tracker.debian.org/tracker/CVE-2018-12886)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-15847_deb_libstdc++6_8.3.0-6",
+              "shortDescription": {
+                "text": "CVE-2019-15847 Severity=Medium Package=libstdc++6 Version=8.3.0-6"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-15847 Severity=Medium Package=libstdc++6 Version=8.3.0-6"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-15847\nSeverity: Medium\nPackage: libstdc++6\nVersion: 8.3.0-6\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2019-15847](https://security-tracker.debian.org/tracker/CVE-2019-15847)",
+                "markdown": "**Vulnerability CVE-2019-15847**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Medium|libstdc++6|8.3.0-6|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2019-15847](https://security-tracker.debian.org/tracker/CVE-2019-15847)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_GHSA-x3rh-m7vp-35f2_java-archive_jetty-server_9.4.27.v20200227",
+              "shortDescription": {
+                "text": "GHSA-x3rh-m7vp-35f2 Severity=High Package=jetty-server Version=9.4.27.v20200227"
+              },
+              "fullDescription": {
+                "text": "GHSA-x3rh-m7vp-35f2 Severity=High Package=jetty-server Version=9.4.27.v20200227"
+              },
+              "help": {
+                "text": "Vulnerability GHSA-x3rh-m7vp-35f2\nSeverity: High\nPackage: jetty-server\nVersion: 9.4.27.v20200227\nFix Version: unknown\nType: java-archive\nLocation: /usr/local/jetty/lib/jetty-server-9.4.27.v20200227.jar\nData Namespace: unknown\nLink: [GHSA-x3rh-m7vp-35f2](https://github.com/advisories/GHSA-x3rh-m7vp-35f2)",
+                "markdown": "**Vulnerability GHSA-x3rh-m7vp-35f2**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|High|jetty-server|9.4.27.v20200227|unknown|java-archive|/usr/local/jetty/lib/jetty-server-9.4.27.v20200227.jar|unknown|[GHSA-x3rh-m7vp-35f2](https://github.com/advisories/GHSA-x3rh-m7vp-35f2)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-17543_deb_liblz4-1_1.8.3-1",
+              "shortDescription": {
+                "text": "CVE-2019-17543 Severity=Low Package=liblz4-1 Version=1.8.3-1"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-17543 Severity=Low Package=liblz4-1 Version=1.8.3-1"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-17543\nSeverity: Low\nPackage: liblz4-1\nVersion: 1.8.3-1\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2019-17543](https://security-tracker.debian.org/tracker/CVE-2019-17543)",
+                "markdown": "**Vulnerability CVE-2019-17543**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Low|liblz4-1|1.8.3-1|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2019-17543](https://security-tracker.debian.org/tracker/CVE-2019-17543)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2007-6755_deb_libssl1.1_1.1.1d-0+deb10u3",
+              "shortDescription": {
+                "text": "CVE-2007-6755 Severity=Negligible Package=libssl1.1 Version=1.1.1d-0+deb10u3"
+              },
+              "fullDescription": {
+                "text": "CVE-2007-6755 Severity=Negligible Package=libssl1.1 Version=1.1.1d-0+deb10u3"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2007-6755\nSeverity: Negligible\nPackage: libssl1.1\nVersion: 1.1.1d-0+deb10u3\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2007-6755](https://security-tracker.debian.org/tracker/CVE-2007-6755)",
+                "markdown": "**Vulnerability CVE-2007-6755**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libssl1.1|1.1.1d-0+deb10u3|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2007-6755](https://security-tracker.debian.org/tracker/CVE-2007-6755)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2010-0928_deb_libssl1.1_1.1.1d-0+deb10u3",
+              "shortDescription": {
+                "text": "CVE-2010-0928 Severity=Negligible Package=libssl1.1 Version=1.1.1d-0+deb10u3"
+              },
+              "fullDescription": {
+                "text": "CVE-2010-0928 Severity=Negligible Package=libssl1.1 Version=1.1.1d-0+deb10u3"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2010-0928\nSeverity: Negligible\nPackage: libssl1.1\nVersion: 1.1.1d-0+deb10u3\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2010-0928](https://security-tracker.debian.org/tracker/CVE-2010-0928)",
+                "markdown": "**Vulnerability CVE-2010-0928**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libssl1.1|1.1.1d-0+deb10u3|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2010-0928](https://security-tracker.debian.org/tracker/CVE-2010-0928)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-1551_deb_libssl1.1_1.1.1d-0+deb10u3",
+              "shortDescription": {
+                "text": "CVE-2019-1551 Severity=Low Package=libssl1.1 Version=1.1.1d-0+deb10u3"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-1551 Severity=Low Package=libssl1.1 Version=1.1.1d-0+deb10u3"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-1551\nSeverity: Low\nPackage: libssl1.1\nVersion: 1.1.1d-0+deb10u3\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2019-1551](https://security-tracker.debian.org/tracker/CVE-2019-1551)",
+                "markdown": "**Vulnerability CVE-2019-1551**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Low|libssl1.1|1.1.1d-0+deb10u3|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2019-1551](https://security-tracker.debian.org/tracker/CVE-2019-1551)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2018-1000654_deb_libtasn1-6_4.13-3",
+              "shortDescription": {
+                "text": "CVE-2018-1000654 Severity=Negligible Package=libtasn1-6 Version=4.13-3"
+              },
+              "fullDescription": {
+                "text": "CVE-2018-1000654 Severity=Negligible Package=libtasn1-6 Version=4.13-3"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2018-1000654\nSeverity: Negligible\nPackage: libtasn1-6\nVersion: 4.13-3\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2018-1000654](https://security-tracker.debian.org/tracker/CVE-2018-1000654)",
+                "markdown": "**Vulnerability CVE-2018-1000654**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libtasn1-6|4.13-3|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2018-1000654](https://security-tracker.debian.org/tracker/CVE-2018-1000654)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2005-2541_deb_tar_1.30+dfsg-6",
+              "shortDescription": {
+                "text": "CVE-2005-2541 Severity=Negligible Package=tar Version=1.30+dfsg-6"
+              },
+              "fullDescription": {
+                "text": "CVE-2005-2541 Severity=Negligible Package=tar Version=1.30+dfsg-6"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2005-2541\nSeverity: Negligible\nPackage: tar\nVersion: 1.30+dfsg-6\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2005-2541](https://security-tracker.debian.org/tracker/CVE-2005-2541)",
+                "markdown": "**Vulnerability CVE-2005-2541**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|tar|1.30+dfsg-6|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2005-2541](https://security-tracker.debian.org/tracker/CVE-2005-2541)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-9923_deb_tar_1.30+dfsg-6",
+              "shortDescription": {
+                "text": "CVE-2019-9923 Severity=Negligible Package=tar Version=1.30+dfsg-6"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-9923 Severity=Negligible Package=tar Version=1.30+dfsg-6"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-9923\nSeverity: Negligible\nPackage: tar\nVersion: 1.30+dfsg-6\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2019-9923](https://security-tracker.debian.org/tracker/CVE-2019-9923)",
+                "markdown": "**Vulnerability CVE-2019-9923**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|tar|1.30+dfsg-6|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2019-9923](https://security-tracker.debian.org/tracker/CVE-2019-9923)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-12904_deb_libgcrypt20_1.8.4-5",
+              "shortDescription": {
+                "text": "CVE-2019-12904 Severity=Medium Package=libgcrypt20 Version=1.8.4-5"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-12904 Severity=Medium Package=libgcrypt20 Version=1.8.4-5"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-12904\nSeverity: Medium\nPackage: libgcrypt20\nVersion: 1.8.4-5\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2019-12904](https://security-tracker.debian.org/tracker/CVE-2019-12904)",
+                "markdown": "**Vulnerability CVE-2019-12904**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Medium|libgcrypt20|1.8.4-5|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2019-12904](https://security-tracker.debian.org/tracker/CVE-2019-12904)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2018-6829_deb_libgcrypt20_1.8.4-5",
+              "shortDescription": {
+                "text": "CVE-2018-6829 Severity=Negligible Package=libgcrypt20 Version=1.8.4-5"
+              },
+              "fullDescription": {
+                "text": "CVE-2018-6829 Severity=Negligible Package=libgcrypt20 Version=1.8.4-5"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2018-6829\nSeverity: Negligible\nPackage: libgcrypt20\nVersion: 1.8.4-5\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2018-6829](https://security-tracker.debian.org/tracker/CVE-2018-6829)",
+                "markdown": "**Vulnerability CVE-2018-6829**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libgcrypt20|1.8.4-5|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2018-6829](https://security-tracker.debian.org/tracker/CVE-2018-6829)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-13627_deb_libgcrypt20_1.8.4-5",
+              "shortDescription": {
+                "text": "CVE-2019-13627 Severity=Low Package=libgcrypt20 Version=1.8.4-5"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-13627 Severity=Low Package=libgcrypt20 Version=1.8.4-5"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-13627\nSeverity: Low\nPackage: libgcrypt20\nVersion: 1.8.4-5\nFix Version: unknown\nType: deb\nLocation: /var/lib/dpkg/status\nData Namespace: unknown\nLink: [CVE-2019-13627](https://security-tracker.debian.org/tracker/CVE-2019-13627)",
+                "markdown": "**Vulnerability CVE-2019-13627**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Low|libgcrypt20|1.8.4-5|unknown|deb|/var/lib/dpkg/status|unknown|[CVE-2019-13627](https://security-tracker.debian.org/tracker/CVE-2019-13627)|\n"
+              }
+            }
+          ]
+        }
+      },
+      "logicalLocations": [
+        {
+          "name": "dockerfile",
+          "fullyQualifiedName": "dockerfile",
+          "kind": "namespace"
+        }
+      ],
+      "results": [
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-9893_deb_libseccomp2_2.3.3-4",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-3844_deb_libsystemd0_241-7~deb10u4",
+          "ruleIndex": 0,
+          "level": "error",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-3843_deb_libsystemd0_241-7~deb10u4",
+          "ruleIndex": 0,
+          "level": "error",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2013-4392_deb_libsystemd0_241-7~deb10u4",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-20386_deb_libsystemd0_241-7~deb10u4",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2020-13776_deb_libsystemd0_241-7~deb10u4",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2007-5686_deb_login_1:4.5-1.1",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2013-4235_deb_login_1:4.5-1.1",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-19882_deb_login_1:4.5-1.1",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2018-7169_deb_login_1:4.5-1.1",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2011-3374_deb_apt_1.8.2.1",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-18276_deb_bash_5.0-4",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2016-2781_deb_coreutils_8.30-3",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2017-18018_deb_coreutils_8.30-3",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-9192_deb_libc6_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-1010023_deb_libc6_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-1010024_deb_libc6_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-1010025_deb_libc6_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2018-20796_deb_libc6_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2010-4052_deb_libc6_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2010-4051_deb_libc6_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2020-10029_deb_libc6_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-19126_deb_libc6_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2010-4756_deb_libc6_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-1010022_deb_libc6_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2016-10228_deb_libc6_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2020-1751_deb_libc6_2.28-10",
+          "ruleIndex": 0,
+          "level": "error",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2020-1752_deb_libc6_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2020-6096_deb_libc6_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2011-3389_deb_libgnutls30_3.6.7-4+deb10u4",
+          "ruleIndex": 0,
+          "level": "error",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2020-24659_deb_libgnutls30_3.6.7-4+deb10u4",
+          "ruleIndex": 0,
+          "level": "error",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2011-4116_deb_perl-base_5.28.1-6",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2020-10878_deb_perl-base_5.28.1-6",
+          "ruleIndex": 0,
+          "level": "error",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2020-12723_deb_perl-base_5.28.1-6",
+          "ruleIndex": 0,
+          "level": "error",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2020-10543_deb_perl-base_5.28.1-6",
+          "ruleIndex": 0,
+          "level": "error",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-14855_deb_gpgv_2.2.12-1+deb10u1",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-12290_deb_libidn2-0_2.0.5-1+deb10u1",
+          "ruleIndex": 0,
+          "level": "error",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2017-7245_deb_libpcre3_2:8.39-12",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2017-11164_deb_libpcre3_2:8.39-12",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2017-7246_deb_libpcre3_2:8.39-12",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2017-16231_deb_libpcre3_2:8.39-12",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2020-14155_deb_libpcre3_2:8.39-12",
+          "ruleIndex": 0,
+          "level": "error",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-20838_deb_libpcre3_2:8.39-12",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2018-12886_deb_libstdc++6_8.3.0-6",
+          "ruleIndex": 0,
+          "level": "error",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-15847_deb_libstdc++6_8.3.0-6",
+          "ruleIndex": 0,
+          "level": "error",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_GHSA-x3rh-m7vp-35f2_java-archive_jetty-server_9.4.27.v20200227",
+          "ruleIndex": 0,
+          "level": "error",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/usr/local/jetty/lib/jetty-server-9.4.27.v20200227.jar"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/usr/local/jetty/lib/jetty-server-9.4.27.v20200227.jar"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2018-12886_deb_gcc-8-base_8.3.0-6",
+          "ruleIndex": 0,
+          "level": "error",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-15847_deb_gcc-8-base_8.3.0-6",
+          "ruleIndex": 0,
+          "level": "error",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2011-3374_deb_libapt-pkg5.0_1.8.2.1",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-17543_deb_liblz4-1_1.8.3-1",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2007-6755_deb_libssl1.1_1.1.1d-0+deb10u3",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2010-0928_deb_libssl1.1_1.1.1d-0+deb10u3",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-1551_deb_libssl1.1_1.1.1d-0+deb10u3",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2018-1000654_deb_libtasn1-6_4.13-3",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2005-2541_deb_tar_1.30+dfsg-6",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-9923_deb_tar_1.30+dfsg-6",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-9192_deb_libc-bin_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-1010023_deb_libc-bin_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-1010024_deb_libc-bin_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-1010025_deb_libc-bin_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2018-20796_deb_libc-bin_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2010-4052_deb_libc-bin_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2010-4051_deb_libc-bin_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2020-10029_deb_libc-bin_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-19126_deb_libc-bin_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2010-4756_deb_libc-bin_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-1010022_deb_libc-bin_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2016-10228_deb_libc-bin_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2020-1751_deb_libc-bin_2.28-10",
+          "ruleIndex": 0,
+          "level": "error",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2020-1752_deb_libc-bin_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2020-6096_deb_libc-bin_2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-12904_deb_libgcrypt20_1.8.4-5",
+          "ruleIndex": 0,
+          "level": "error",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2018-6829_deb_libgcrypt20_1.8.4-5",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-13627_deb_libgcrypt20_1.8.4-5",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-3844_deb_libudev1_241-7~deb10u4",
+          "ruleIndex": 0,
+          "level": "error",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-3843_deb_libudev1_241-7~deb10u4",
+          "ruleIndex": 0,
+          "level": "error",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2013-4392_deb_libudev1_241-7~deb10u4",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-20386_deb_libudev1_241-7~deb10u4",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2020-13776_deb_libudev1_241-7~deb10u4",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2007-6755_deb_openssl_1.1.1d-0+deb10u3",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2010-0928_deb_openssl_1.1.1d-0+deb10u3",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-1551_deb_openssl_1.1.1d-0+deb10u3",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2007-5686_deb_passwd_1:4.5-1.1",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2013-4235_deb_passwd_1:4.5-1.1",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-19882_deb_passwd_1:4.5-1.1",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2018-7169_deb_passwd_1:4.5-1.1",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "The container image contains software with a vulnerability: (undefined type=undefined)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "/var/lib/dpkg/status"
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "/var/lib/dpkg/status"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        }
+      ],
+      "columnKind": "utf16CodeUnits"
+    }
+  ]
+}
