@@ -1,0 +1,21 @@
+name: Upload Report
+
+on:
+  workflow_dispatch:
+    inputs:
+      file:
+        default: results.sarif
+        required: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Upload Report
+        uses: github/codeql-action/upload-sarif@v1
+        with:
+          sarif_file: ${{ github.event.inputs.file }}
