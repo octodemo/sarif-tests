@@ -1,0 +1,2945 @@
+{
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.4.json",
+  "version": "2.1.0",
+  "runs": [
+    {
+      "tool": {
+        "driver": {
+          "name": "Anchore Container Vulnerability Report",
+          "fullName": "Anchore Container Vulnerability Report",
+          "version": "0.7.3",
+          "semanticVersion": "0.7.3",
+          "dottedQuadFileVersion": "0.7.3.0",
+          "rules": [
+            {
+              "id": "ANCHOREVULN_CVE-2011-3374_dpkg_apt-1.8.2.1",
+              "shortDescription": {
+                "text": "CVE-2011-3374 Severity=Negligible Package=apt-1.8.2.1"
+              },
+              "fullDescription": {
+                "text": "CVE-2011-3374 Severity=Negligible Package=apt-1.8.2.1"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2011-3374\nSeverity: Negligible\nPackage: apt\nVersion: 1.8.2.1\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2011-3374](https://security-tracker.debian.org/tracker/CVE-2011-3374)",
+                "markdown": "**Vulnerability CVE-2011-3374**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|apt|1.8.2.1|None|dpkg|pkgdb|debian:10|[CVE-2011-3374](https://security-tracker.debian.org/tracker/CVE-2011-3374)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-18276_dpkg_bash-5.0-4",
+              "shortDescription": {
+                "text": "CVE-2019-18276 Severity=Negligible Package=bash-5.0-4"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-18276 Severity=Negligible Package=bash-5.0-4"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-18276\nSeverity: Negligible\nPackage: bash\nVersion: 5.0-4\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2019-18276](https://security-tracker.debian.org/tracker/CVE-2019-18276)",
+                "markdown": "**Vulnerability CVE-2019-18276**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|bash|5.0-4|None|dpkg|pkgdb|debian:10|[CVE-2019-18276](https://security-tracker.debian.org/tracker/CVE-2019-18276)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2017-18018_dpkg_coreutils-8.30-3",
+              "shortDescription": {
+                "text": "CVE-2017-18018 Severity=Negligible Package=coreutils-8.30-3"
+              },
+              "fullDescription": {
+                "text": "CVE-2017-18018 Severity=Negligible Package=coreutils-8.30-3"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2017-18018\nSeverity: Negligible\nPackage: coreutils\nVersion: 8.30-3\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2017-18018](https://security-tracker.debian.org/tracker/CVE-2017-18018)",
+                "markdown": "**Vulnerability CVE-2017-18018**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|coreutils|8.30-3|None|dpkg|pkgdb|debian:10|[CVE-2017-18018](https://security-tracker.debian.org/tracker/CVE-2017-18018)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2011-3374_dpkg_libapt-pkg5.0-1.8.2.1",
+              "shortDescription": {
+                "text": "CVE-2011-3374 Severity=Negligible Package=libapt-pkg5.0-1.8.2.1"
+              },
+              "fullDescription": {
+                "text": "CVE-2011-3374 Severity=Negligible Package=libapt-pkg5.0-1.8.2.1"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2011-3374\nSeverity: Negligible\nPackage: libapt-pkg5.0\nVersion: 1.8.2.1\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2011-3374](https://security-tracker.debian.org/tracker/CVE-2011-3374)",
+                "markdown": "**Vulnerability CVE-2011-3374**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libapt-pkg5.0|1.8.2.1|None|dpkg|pkgdb|debian:10|[CVE-2011-3374](https://security-tracker.debian.org/tracker/CVE-2011-3374)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2010-4051_dpkg_libc-bin-2.28-10",
+              "shortDescription": {
+                "text": "CVE-2010-4051 Severity=Negligible Package=libc-bin-2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2010-4051 Severity=Negligible Package=libc-bin-2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2010-4051\nSeverity: Negligible\nPackage: libc-bin\nVersion: 2.28-10\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2010-4051](https://security-tracker.debian.org/tracker/CVE-2010-4051)",
+                "markdown": "**Vulnerability CVE-2010-4051**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc-bin|2.28-10|None|dpkg|pkgdb|debian:10|[CVE-2010-4051](https://security-tracker.debian.org/tracker/CVE-2010-4051)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2010-4052_dpkg_libc-bin-2.28-10",
+              "shortDescription": {
+                "text": "CVE-2010-4052 Severity=Negligible Package=libc-bin-2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2010-4052 Severity=Negligible Package=libc-bin-2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2010-4052\nSeverity: Negligible\nPackage: libc-bin\nVersion: 2.28-10\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2010-4052](https://security-tracker.debian.org/tracker/CVE-2010-4052)",
+                "markdown": "**Vulnerability CVE-2010-4052**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc-bin|2.28-10|None|dpkg|pkgdb|debian:10|[CVE-2010-4052](https://security-tracker.debian.org/tracker/CVE-2010-4052)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2010-4756_dpkg_libc-bin-2.28-10",
+              "shortDescription": {
+                "text": "CVE-2010-4756 Severity=Negligible Package=libc-bin-2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2010-4756 Severity=Negligible Package=libc-bin-2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2010-4756\nSeverity: Negligible\nPackage: libc-bin\nVersion: 2.28-10\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2010-4756](https://security-tracker.debian.org/tracker/CVE-2010-4756)",
+                "markdown": "**Vulnerability CVE-2010-4756**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc-bin|2.28-10|None|dpkg|pkgdb|debian:10|[CVE-2010-4756](https://security-tracker.debian.org/tracker/CVE-2010-4756)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2018-20796_dpkg_libc-bin-2.28-10",
+              "shortDescription": {
+                "text": "CVE-2018-20796 Severity=Negligible Package=libc-bin-2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2018-20796 Severity=Negligible Package=libc-bin-2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2018-20796\nSeverity: Negligible\nPackage: libc-bin\nVersion: 2.28-10\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2018-20796](https://security-tracker.debian.org/tracker/CVE-2018-20796)",
+                "markdown": "**Vulnerability CVE-2018-20796**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc-bin|2.28-10|None|dpkg|pkgdb|debian:10|[CVE-2018-20796](https://security-tracker.debian.org/tracker/CVE-2018-20796)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-1010022_dpkg_libc-bin-2.28-10",
+              "shortDescription": {
+                "text": "CVE-2019-1010022 Severity=Negligible Package=libc-bin-2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-1010022 Severity=Negligible Package=libc-bin-2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-1010022\nSeverity: Negligible\nPackage: libc-bin\nVersion: 2.28-10\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2019-1010022](https://security-tracker.debian.org/tracker/CVE-2019-1010022)",
+                "markdown": "**Vulnerability CVE-2019-1010022**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc-bin|2.28-10|None|dpkg|pkgdb|debian:10|[CVE-2019-1010022](https://security-tracker.debian.org/tracker/CVE-2019-1010022)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-1010023_dpkg_libc-bin-2.28-10",
+              "shortDescription": {
+                "text": "CVE-2019-1010023 Severity=Negligible Package=libc-bin-2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-1010023 Severity=Negligible Package=libc-bin-2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-1010023\nSeverity: Negligible\nPackage: libc-bin\nVersion: 2.28-10\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2019-1010023](https://security-tracker.debian.org/tracker/CVE-2019-1010023)",
+                "markdown": "**Vulnerability CVE-2019-1010023**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc-bin|2.28-10|None|dpkg|pkgdb|debian:10|[CVE-2019-1010023](https://security-tracker.debian.org/tracker/CVE-2019-1010023)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-1010024_dpkg_libc-bin-2.28-10",
+              "shortDescription": {
+                "text": "CVE-2019-1010024 Severity=Negligible Package=libc-bin-2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-1010024 Severity=Negligible Package=libc-bin-2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-1010024\nSeverity: Negligible\nPackage: libc-bin\nVersion: 2.28-10\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2019-1010024](https://security-tracker.debian.org/tracker/CVE-2019-1010024)",
+                "markdown": "**Vulnerability CVE-2019-1010024**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc-bin|2.28-10|None|dpkg|pkgdb|debian:10|[CVE-2019-1010024](https://security-tracker.debian.org/tracker/CVE-2019-1010024)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-1010025_dpkg_libc-bin-2.28-10",
+              "shortDescription": {
+                "text": "CVE-2019-1010025 Severity=Negligible Package=libc-bin-2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-1010025 Severity=Negligible Package=libc-bin-2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-1010025\nSeverity: Negligible\nPackage: libc-bin\nVersion: 2.28-10\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2019-1010025](https://security-tracker.debian.org/tracker/CVE-2019-1010025)",
+                "markdown": "**Vulnerability CVE-2019-1010025**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc-bin|2.28-10|None|dpkg|pkgdb|debian:10|[CVE-2019-1010025](https://security-tracker.debian.org/tracker/CVE-2019-1010025)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-9192_dpkg_libc-bin-2.28-10",
+              "shortDescription": {
+                "text": "CVE-2019-9192 Severity=Negligible Package=libc-bin-2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-9192 Severity=Negligible Package=libc-bin-2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-9192\nSeverity: Negligible\nPackage: libc-bin\nVersion: 2.28-10\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2019-9192](https://security-tracker.debian.org/tracker/CVE-2019-9192)",
+                "markdown": "**Vulnerability CVE-2019-9192**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc-bin|2.28-10|None|dpkg|pkgdb|debian:10|[CVE-2019-9192](https://security-tracker.debian.org/tracker/CVE-2019-9192)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2010-4051_dpkg_libc6-2.28-10",
+              "shortDescription": {
+                "text": "CVE-2010-4051 Severity=Negligible Package=libc6-2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2010-4051 Severity=Negligible Package=libc6-2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2010-4051\nSeverity: Negligible\nPackage: libc6\nVersion: 2.28-10\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2010-4051](https://security-tracker.debian.org/tracker/CVE-2010-4051)",
+                "markdown": "**Vulnerability CVE-2010-4051**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc6|2.28-10|None|dpkg|pkgdb|debian:10|[CVE-2010-4051](https://security-tracker.debian.org/tracker/CVE-2010-4051)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2010-4052_dpkg_libc6-2.28-10",
+              "shortDescription": {
+                "text": "CVE-2010-4052 Severity=Negligible Package=libc6-2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2010-4052 Severity=Negligible Package=libc6-2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2010-4052\nSeverity: Negligible\nPackage: libc6\nVersion: 2.28-10\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2010-4052](https://security-tracker.debian.org/tracker/CVE-2010-4052)",
+                "markdown": "**Vulnerability CVE-2010-4052**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc6|2.28-10|None|dpkg|pkgdb|debian:10|[CVE-2010-4052](https://security-tracker.debian.org/tracker/CVE-2010-4052)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2010-4756_dpkg_libc6-2.28-10",
+              "shortDescription": {
+                "text": "CVE-2010-4756 Severity=Negligible Package=libc6-2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2010-4756 Severity=Negligible Package=libc6-2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2010-4756\nSeverity: Negligible\nPackage: libc6\nVersion: 2.28-10\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2010-4756](https://security-tracker.debian.org/tracker/CVE-2010-4756)",
+                "markdown": "**Vulnerability CVE-2010-4756**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc6|2.28-10|None|dpkg|pkgdb|debian:10|[CVE-2010-4756](https://security-tracker.debian.org/tracker/CVE-2010-4756)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2018-20796_dpkg_libc6-2.28-10",
+              "shortDescription": {
+                "text": "CVE-2018-20796 Severity=Negligible Package=libc6-2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2018-20796 Severity=Negligible Package=libc6-2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2018-20796\nSeverity: Negligible\nPackage: libc6\nVersion: 2.28-10\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2018-20796](https://security-tracker.debian.org/tracker/CVE-2018-20796)",
+                "markdown": "**Vulnerability CVE-2018-20796**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc6|2.28-10|None|dpkg|pkgdb|debian:10|[CVE-2018-20796](https://security-tracker.debian.org/tracker/CVE-2018-20796)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-1010022_dpkg_libc6-2.28-10",
+              "shortDescription": {
+                "text": "CVE-2019-1010022 Severity=Negligible Package=libc6-2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-1010022 Severity=Negligible Package=libc6-2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-1010022\nSeverity: Negligible\nPackage: libc6\nVersion: 2.28-10\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2019-1010022](https://security-tracker.debian.org/tracker/CVE-2019-1010022)",
+                "markdown": "**Vulnerability CVE-2019-1010022**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc6|2.28-10|None|dpkg|pkgdb|debian:10|[CVE-2019-1010022](https://security-tracker.debian.org/tracker/CVE-2019-1010022)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-1010023_dpkg_libc6-2.28-10",
+              "shortDescription": {
+                "text": "CVE-2019-1010023 Severity=Negligible Package=libc6-2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-1010023 Severity=Negligible Package=libc6-2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-1010023\nSeverity: Negligible\nPackage: libc6\nVersion: 2.28-10\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2019-1010023](https://security-tracker.debian.org/tracker/CVE-2019-1010023)",
+                "markdown": "**Vulnerability CVE-2019-1010023**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc6|2.28-10|None|dpkg|pkgdb|debian:10|[CVE-2019-1010023](https://security-tracker.debian.org/tracker/CVE-2019-1010023)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-1010024_dpkg_libc6-2.28-10",
+              "shortDescription": {
+                "text": "CVE-2019-1010024 Severity=Negligible Package=libc6-2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-1010024 Severity=Negligible Package=libc6-2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-1010024\nSeverity: Negligible\nPackage: libc6\nVersion: 2.28-10\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2019-1010024](https://security-tracker.debian.org/tracker/CVE-2019-1010024)",
+                "markdown": "**Vulnerability CVE-2019-1010024**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc6|2.28-10|None|dpkg|pkgdb|debian:10|[CVE-2019-1010024](https://security-tracker.debian.org/tracker/CVE-2019-1010024)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-1010025_dpkg_libc6-2.28-10",
+              "shortDescription": {
+                "text": "CVE-2019-1010025 Severity=Negligible Package=libc6-2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-1010025 Severity=Negligible Package=libc6-2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-1010025\nSeverity: Negligible\nPackage: libc6\nVersion: 2.28-10\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2019-1010025](https://security-tracker.debian.org/tracker/CVE-2019-1010025)",
+                "markdown": "**Vulnerability CVE-2019-1010025**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc6|2.28-10|None|dpkg|pkgdb|debian:10|[CVE-2019-1010025](https://security-tracker.debian.org/tracker/CVE-2019-1010025)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-9192_dpkg_libc6-2.28-10",
+              "shortDescription": {
+                "text": "CVE-2019-9192 Severity=Negligible Package=libc6-2.28-10"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-9192 Severity=Negligible Package=libc6-2.28-10"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-9192\nSeverity: Negligible\nPackage: libc6\nVersion: 2.28-10\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2019-9192](https://security-tracker.debian.org/tracker/CVE-2019-9192)",
+                "markdown": "**Vulnerability CVE-2019-9192**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libc6|2.28-10|None|dpkg|pkgdb|debian:10|[CVE-2019-9192](https://security-tracker.debian.org/tracker/CVE-2019-9192)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2018-6829_dpkg_libgcrypt20-1.8.4-5",
+              "shortDescription": {
+                "text": "CVE-2018-6829 Severity=Negligible Package=libgcrypt20-1.8.4-5"
+              },
+              "fullDescription": {
+                "text": "CVE-2018-6829 Severity=Negligible Package=libgcrypt20-1.8.4-5"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2018-6829\nSeverity: Negligible\nPackage: libgcrypt20\nVersion: 1.8.4-5\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2018-6829](https://security-tracker.debian.org/tracker/CVE-2018-6829)",
+                "markdown": "**Vulnerability CVE-2018-6829**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libgcrypt20|1.8.4-5|None|dpkg|pkgdb|debian:10|[CVE-2018-6829](https://security-tracker.debian.org/tracker/CVE-2018-6829)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2011-3389_dpkg_libgnutls30-3.6.7-4+deb10u4",
+              "shortDescription": {
+                "text": "CVE-2011-3389 Severity=Medium Package=libgnutls30-3.6.7-4+deb10u4"
+              },
+              "fullDescription": {
+                "text": "CVE-2011-3389 Severity=Medium Package=libgnutls30-3.6.7-4+deb10u4"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2011-3389\nSeverity: Medium\nPackage: libgnutls30\nVersion: 3.6.7-4+deb10u4\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2011-3389](https://security-tracker.debian.org/tracker/CVE-2011-3389)",
+                "markdown": "**Vulnerability CVE-2011-3389**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Medium|libgnutls30|3.6.7-4+deb10u4|None|dpkg|pkgdb|debian:10|[CVE-2011-3389](https://security-tracker.debian.org/tracker/CVE-2011-3389)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2017-11164_dpkg_libpcre3-2:8.39-12",
+              "shortDescription": {
+                "text": "CVE-2017-11164 Severity=Negligible Package=libpcre3-2:8.39-12"
+              },
+              "fullDescription": {
+                "text": "CVE-2017-11164 Severity=Negligible Package=libpcre3-2:8.39-12"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2017-11164\nSeverity: Negligible\nPackage: libpcre3\nVersion: 2:8.39-12\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2017-11164](https://security-tracker.debian.org/tracker/CVE-2017-11164)",
+                "markdown": "**Vulnerability CVE-2017-11164**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libpcre3|2:8.39-12|None|dpkg|pkgdb|debian:10|[CVE-2017-11164](https://security-tracker.debian.org/tracker/CVE-2017-11164)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2017-16231_dpkg_libpcre3-2:8.39-12",
+              "shortDescription": {
+                "text": "CVE-2017-16231 Severity=Negligible Package=libpcre3-2:8.39-12"
+              },
+              "fullDescription": {
+                "text": "CVE-2017-16231 Severity=Negligible Package=libpcre3-2:8.39-12"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2017-16231\nSeverity: Negligible\nPackage: libpcre3\nVersion: 2:8.39-12\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2017-16231](https://security-tracker.debian.org/tracker/CVE-2017-16231)",
+                "markdown": "**Vulnerability CVE-2017-16231**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libpcre3|2:8.39-12|None|dpkg|pkgdb|debian:10|[CVE-2017-16231](https://security-tracker.debian.org/tracker/CVE-2017-16231)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2017-7245_dpkg_libpcre3-2:8.39-12",
+              "shortDescription": {
+                "text": "CVE-2017-7245 Severity=Negligible Package=libpcre3-2:8.39-12"
+              },
+              "fullDescription": {
+                "text": "CVE-2017-7245 Severity=Negligible Package=libpcre3-2:8.39-12"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2017-7245\nSeverity: Negligible\nPackage: libpcre3\nVersion: 2:8.39-12\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2017-7245](https://security-tracker.debian.org/tracker/CVE-2017-7245)",
+                "markdown": "**Vulnerability CVE-2017-7245**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libpcre3|2:8.39-12|None|dpkg|pkgdb|debian:10|[CVE-2017-7245](https://security-tracker.debian.org/tracker/CVE-2017-7245)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2017-7246_dpkg_libpcre3-2:8.39-12",
+              "shortDescription": {
+                "text": "CVE-2017-7246 Severity=Negligible Package=libpcre3-2:8.39-12"
+              },
+              "fullDescription": {
+                "text": "CVE-2017-7246 Severity=Negligible Package=libpcre3-2:8.39-12"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2017-7246\nSeverity: Negligible\nPackage: libpcre3\nVersion: 2:8.39-12\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2017-7246](https://security-tracker.debian.org/tracker/CVE-2017-7246)",
+                "markdown": "**Vulnerability CVE-2017-7246**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libpcre3|2:8.39-12|None|dpkg|pkgdb|debian:10|[CVE-2017-7246](https://security-tracker.debian.org/tracker/CVE-2017-7246)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-20838_dpkg_libpcre3-2:8.39-12",
+              "shortDescription": {
+                "text": "CVE-2019-20838 Severity=Negligible Package=libpcre3-2:8.39-12"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-20838 Severity=Negligible Package=libpcre3-2:8.39-12"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-20838\nSeverity: Negligible\nPackage: libpcre3\nVersion: 2:8.39-12\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2019-20838](https://security-tracker.debian.org/tracker/CVE-2019-20838)",
+                "markdown": "**Vulnerability CVE-2019-20838**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libpcre3|2:8.39-12|None|dpkg|pkgdb|debian:10|[CVE-2019-20838](https://security-tracker.debian.org/tracker/CVE-2019-20838)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-9893_dpkg_libseccomp2-2.3.3-4",
+              "shortDescription": {
+                "text": "CVE-2019-9893 Severity=Negligible Package=libseccomp2-2.3.3-4"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-9893 Severity=Negligible Package=libseccomp2-2.3.3-4"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-9893\nSeverity: Negligible\nPackage: libseccomp2\nVersion: 2.3.3-4\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2019-9893](https://security-tracker.debian.org/tracker/CVE-2019-9893)",
+                "markdown": "**Vulnerability CVE-2019-9893**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libseccomp2|2.3.3-4|None|dpkg|pkgdb|debian:10|[CVE-2019-9893](https://security-tracker.debian.org/tracker/CVE-2019-9893)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2007-6755_dpkg_libssl1.1-1.1.1d-0+deb10u3",
+              "shortDescription": {
+                "text": "CVE-2007-6755 Severity=Negligible Package=libssl1.1-1.1.1d-0+deb10u3"
+              },
+              "fullDescription": {
+                "text": "CVE-2007-6755 Severity=Negligible Package=libssl1.1-1.1.1d-0+deb10u3"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2007-6755\nSeverity: Negligible\nPackage: libssl1.1\nVersion: 1.1.1d-0+deb10u3\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2007-6755](https://security-tracker.debian.org/tracker/CVE-2007-6755)",
+                "markdown": "**Vulnerability CVE-2007-6755**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libssl1.1|1.1.1d-0+deb10u3|None|dpkg|pkgdb|debian:10|[CVE-2007-6755](https://security-tracker.debian.org/tracker/CVE-2007-6755)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2010-0928_dpkg_libssl1.1-1.1.1d-0+deb10u3",
+              "shortDescription": {
+                "text": "CVE-2010-0928 Severity=Negligible Package=libssl1.1-1.1.1d-0+deb10u3"
+              },
+              "fullDescription": {
+                "text": "CVE-2010-0928 Severity=Negligible Package=libssl1.1-1.1.1d-0+deb10u3"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2010-0928\nSeverity: Negligible\nPackage: libssl1.1\nVersion: 1.1.1d-0+deb10u3\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2010-0928](https://security-tracker.debian.org/tracker/CVE-2010-0928)",
+                "markdown": "**Vulnerability CVE-2010-0928**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libssl1.1|1.1.1d-0+deb10u3|None|dpkg|pkgdb|debian:10|[CVE-2010-0928](https://security-tracker.debian.org/tracker/CVE-2010-0928)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2013-4392_dpkg_libsystemd0-241-7~deb10u4",
+              "shortDescription": {
+                "text": "CVE-2013-4392 Severity=Negligible Package=libsystemd0-241-7~deb10u4"
+              },
+              "fullDescription": {
+                "text": "CVE-2013-4392 Severity=Negligible Package=libsystemd0-241-7~deb10u4"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2013-4392\nSeverity: Negligible\nPackage: libsystemd0\nVersion: 241-7~deb10u4\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2013-4392](https://security-tracker.debian.org/tracker/CVE-2013-4392)",
+                "markdown": "**Vulnerability CVE-2013-4392**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libsystemd0|241-7~deb10u4|None|dpkg|pkgdb|debian:10|[CVE-2013-4392](https://security-tracker.debian.org/tracker/CVE-2013-4392)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-20386_dpkg_libsystemd0-241-7~deb10u4",
+              "shortDescription": {
+                "text": "CVE-2019-20386 Severity=Negligible Package=libsystemd0-241-7~deb10u4"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-20386 Severity=Negligible Package=libsystemd0-241-7~deb10u4"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-20386\nSeverity: Negligible\nPackage: libsystemd0\nVersion: 241-7~deb10u4\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2019-20386](https://security-tracker.debian.org/tracker/CVE-2019-20386)",
+                "markdown": "**Vulnerability CVE-2019-20386**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libsystemd0|241-7~deb10u4|None|dpkg|pkgdb|debian:10|[CVE-2019-20386](https://security-tracker.debian.org/tracker/CVE-2019-20386)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2020-13776_dpkg_libsystemd0-241-7~deb10u4",
+              "shortDescription": {
+                "text": "CVE-2020-13776 Severity=Negligible Package=libsystemd0-241-7~deb10u4"
+              },
+              "fullDescription": {
+                "text": "CVE-2020-13776 Severity=Negligible Package=libsystemd0-241-7~deb10u4"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2020-13776\nSeverity: Negligible\nPackage: libsystemd0\nVersion: 241-7~deb10u4\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2020-13776](https://security-tracker.debian.org/tracker/CVE-2020-13776)",
+                "markdown": "**Vulnerability CVE-2020-13776**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libsystemd0|241-7~deb10u4|None|dpkg|pkgdb|debian:10|[CVE-2020-13776](https://security-tracker.debian.org/tracker/CVE-2020-13776)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2018-1000654_dpkg_libtasn1-6-4.13-3",
+              "shortDescription": {
+                "text": "CVE-2018-1000654 Severity=Negligible Package=libtasn1-6-4.13-3"
+              },
+              "fullDescription": {
+                "text": "CVE-2018-1000654 Severity=Negligible Package=libtasn1-6-4.13-3"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2018-1000654\nSeverity: Negligible\nPackage: libtasn1-6\nVersion: 4.13-3\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2018-1000654](https://security-tracker.debian.org/tracker/CVE-2018-1000654)",
+                "markdown": "**Vulnerability CVE-2018-1000654**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libtasn1-6|4.13-3|None|dpkg|pkgdb|debian:10|[CVE-2018-1000654](https://security-tracker.debian.org/tracker/CVE-2018-1000654)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2013-4392_dpkg_libudev1-241-7~deb10u4",
+              "shortDescription": {
+                "text": "CVE-2013-4392 Severity=Negligible Package=libudev1-241-7~deb10u4"
+              },
+              "fullDescription": {
+                "text": "CVE-2013-4392 Severity=Negligible Package=libudev1-241-7~deb10u4"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2013-4392\nSeverity: Negligible\nPackage: libudev1\nVersion: 241-7~deb10u4\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2013-4392](https://security-tracker.debian.org/tracker/CVE-2013-4392)",
+                "markdown": "**Vulnerability CVE-2013-4392**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libudev1|241-7~deb10u4|None|dpkg|pkgdb|debian:10|[CVE-2013-4392](https://security-tracker.debian.org/tracker/CVE-2013-4392)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-20386_dpkg_libudev1-241-7~deb10u4",
+              "shortDescription": {
+                "text": "CVE-2019-20386 Severity=Negligible Package=libudev1-241-7~deb10u4"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-20386 Severity=Negligible Package=libudev1-241-7~deb10u4"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-20386\nSeverity: Negligible\nPackage: libudev1\nVersion: 241-7~deb10u4\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2019-20386](https://security-tracker.debian.org/tracker/CVE-2019-20386)",
+                "markdown": "**Vulnerability CVE-2019-20386**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libudev1|241-7~deb10u4|None|dpkg|pkgdb|debian:10|[CVE-2019-20386](https://security-tracker.debian.org/tracker/CVE-2019-20386)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2020-13776_dpkg_libudev1-241-7~deb10u4",
+              "shortDescription": {
+                "text": "CVE-2020-13776 Severity=Negligible Package=libudev1-241-7~deb10u4"
+              },
+              "fullDescription": {
+                "text": "CVE-2020-13776 Severity=Negligible Package=libudev1-241-7~deb10u4"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2020-13776\nSeverity: Negligible\nPackage: libudev1\nVersion: 241-7~deb10u4\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2020-13776](https://security-tracker.debian.org/tracker/CVE-2020-13776)",
+                "markdown": "**Vulnerability CVE-2020-13776**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|libudev1|241-7~deb10u4|None|dpkg|pkgdb|debian:10|[CVE-2020-13776](https://security-tracker.debian.org/tracker/CVE-2020-13776)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2007-5686_dpkg_login-1:4.5-1.1",
+              "shortDescription": {
+                "text": "CVE-2007-5686 Severity=Negligible Package=login-1:4.5-1.1"
+              },
+              "fullDescription": {
+                "text": "CVE-2007-5686 Severity=Negligible Package=login-1:4.5-1.1"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2007-5686\nSeverity: Negligible\nPackage: login\nVersion: 1:4.5-1.1\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2007-5686](https://security-tracker.debian.org/tracker/CVE-2007-5686)",
+                "markdown": "**Vulnerability CVE-2007-5686**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|login|1:4.5-1.1|None|dpkg|pkgdb|debian:10|[CVE-2007-5686](https://security-tracker.debian.org/tracker/CVE-2007-5686)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2013-4235_dpkg_login-1:4.5-1.1",
+              "shortDescription": {
+                "text": "CVE-2013-4235 Severity=Negligible Package=login-1:4.5-1.1"
+              },
+              "fullDescription": {
+                "text": "CVE-2013-4235 Severity=Negligible Package=login-1:4.5-1.1"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2013-4235\nSeverity: Negligible\nPackage: login\nVersion: 1:4.5-1.1\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2013-4235](https://security-tracker.debian.org/tracker/CVE-2013-4235)",
+                "markdown": "**Vulnerability CVE-2013-4235**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|login|1:4.5-1.1|None|dpkg|pkgdb|debian:10|[CVE-2013-4235](https://security-tracker.debian.org/tracker/CVE-2013-4235)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-19882_dpkg_login-1:4.5-1.1",
+              "shortDescription": {
+                "text": "CVE-2019-19882 Severity=Negligible Package=login-1:4.5-1.1"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-19882 Severity=Negligible Package=login-1:4.5-1.1"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-19882\nSeverity: Negligible\nPackage: login\nVersion: 1:4.5-1.1\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2019-19882](https://security-tracker.debian.org/tracker/CVE-2019-19882)",
+                "markdown": "**Vulnerability CVE-2019-19882**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|login|1:4.5-1.1|None|dpkg|pkgdb|debian:10|[CVE-2019-19882](https://security-tracker.debian.org/tracker/CVE-2019-19882)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2007-6755_dpkg_openssl-1.1.1d-0+deb10u3",
+              "shortDescription": {
+                "text": "CVE-2007-6755 Severity=Negligible Package=openssl-1.1.1d-0+deb10u3"
+              },
+              "fullDescription": {
+                "text": "CVE-2007-6755 Severity=Negligible Package=openssl-1.1.1d-0+deb10u3"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2007-6755\nSeverity: Negligible\nPackage: openssl\nVersion: 1.1.1d-0+deb10u3\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2007-6755](https://security-tracker.debian.org/tracker/CVE-2007-6755)",
+                "markdown": "**Vulnerability CVE-2007-6755**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|openssl|1.1.1d-0+deb10u3|None|dpkg|pkgdb|debian:10|[CVE-2007-6755](https://security-tracker.debian.org/tracker/CVE-2007-6755)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2010-0928_dpkg_openssl-1.1.1d-0+deb10u3",
+              "shortDescription": {
+                "text": "CVE-2010-0928 Severity=Negligible Package=openssl-1.1.1d-0+deb10u3"
+              },
+              "fullDescription": {
+                "text": "CVE-2010-0928 Severity=Negligible Package=openssl-1.1.1d-0+deb10u3"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2010-0928\nSeverity: Negligible\nPackage: openssl\nVersion: 1.1.1d-0+deb10u3\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2010-0928](https://security-tracker.debian.org/tracker/CVE-2010-0928)",
+                "markdown": "**Vulnerability CVE-2010-0928**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|openssl|1.1.1d-0+deb10u3|None|dpkg|pkgdb|debian:10|[CVE-2010-0928](https://security-tracker.debian.org/tracker/CVE-2010-0928)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2007-5686_dpkg_passwd-1:4.5-1.1",
+              "shortDescription": {
+                "text": "CVE-2007-5686 Severity=Negligible Package=passwd-1:4.5-1.1"
+              },
+              "fullDescription": {
+                "text": "CVE-2007-5686 Severity=Negligible Package=passwd-1:4.5-1.1"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2007-5686\nSeverity: Negligible\nPackage: passwd\nVersion: 1:4.5-1.1\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2007-5686](https://security-tracker.debian.org/tracker/CVE-2007-5686)",
+                "markdown": "**Vulnerability CVE-2007-5686**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|passwd|1:4.5-1.1|None|dpkg|pkgdb|debian:10|[CVE-2007-5686](https://security-tracker.debian.org/tracker/CVE-2007-5686)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2013-4235_dpkg_passwd-1:4.5-1.1",
+              "shortDescription": {
+                "text": "CVE-2013-4235 Severity=Negligible Package=passwd-1:4.5-1.1"
+              },
+              "fullDescription": {
+                "text": "CVE-2013-4235 Severity=Negligible Package=passwd-1:4.5-1.1"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2013-4235\nSeverity: Negligible\nPackage: passwd\nVersion: 1:4.5-1.1\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2013-4235](https://security-tracker.debian.org/tracker/CVE-2013-4235)",
+                "markdown": "**Vulnerability CVE-2013-4235**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|passwd|1:4.5-1.1|None|dpkg|pkgdb|debian:10|[CVE-2013-4235](https://security-tracker.debian.org/tracker/CVE-2013-4235)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-19882_dpkg_passwd-1:4.5-1.1",
+              "shortDescription": {
+                "text": "CVE-2019-19882 Severity=Negligible Package=passwd-1:4.5-1.1"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-19882 Severity=Negligible Package=passwd-1:4.5-1.1"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-19882\nSeverity: Negligible\nPackage: passwd\nVersion: 1:4.5-1.1\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2019-19882](https://security-tracker.debian.org/tracker/CVE-2019-19882)",
+                "markdown": "**Vulnerability CVE-2019-19882**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|passwd|1:4.5-1.1|None|dpkg|pkgdb|debian:10|[CVE-2019-19882](https://security-tracker.debian.org/tracker/CVE-2019-19882)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2011-4116_dpkg_perl-base-5.28.1-6",
+              "shortDescription": {
+                "text": "CVE-2011-4116 Severity=Negligible Package=perl-base-5.28.1-6"
+              },
+              "fullDescription": {
+                "text": "CVE-2011-4116 Severity=Negligible Package=perl-base-5.28.1-6"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2011-4116\nSeverity: Negligible\nPackage: perl-base\nVersion: 5.28.1-6\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2011-4116](https://security-tracker.debian.org/tracker/CVE-2011-4116)",
+                "markdown": "**Vulnerability CVE-2011-4116**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|perl-base|5.28.1-6|None|dpkg|pkgdb|debian:10|[CVE-2011-4116](https://security-tracker.debian.org/tracker/CVE-2011-4116)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2020-10543_dpkg_perl-base-5.28.1-6",
+              "shortDescription": {
+                "text": "CVE-2020-10543 Severity=Medium Package=perl-base-5.28.1-6"
+              },
+              "fullDescription": {
+                "text": "CVE-2020-10543 Severity=Medium Package=perl-base-5.28.1-6"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2020-10543\nSeverity: Medium\nPackage: perl-base\nVersion: 5.28.1-6\nFix Version: 5.28.1-6+deb10u1\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2020-10543](https://security-tracker.debian.org/tracker/CVE-2020-10543)",
+                "markdown": "**Vulnerability CVE-2020-10543**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Medium|perl-base|5.28.1-6|5.28.1-6+deb10u1|dpkg|pkgdb|debian:10|[CVE-2020-10543](https://security-tracker.debian.org/tracker/CVE-2020-10543)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2020-10878_dpkg_perl-base-5.28.1-6",
+              "shortDescription": {
+                "text": "CVE-2020-10878 Severity=High Package=perl-base-5.28.1-6"
+              },
+              "fullDescription": {
+                "text": "CVE-2020-10878 Severity=High Package=perl-base-5.28.1-6"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2020-10878\nSeverity: High\nPackage: perl-base\nVersion: 5.28.1-6\nFix Version: 5.28.1-6+deb10u1\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2020-10878](https://security-tracker.debian.org/tracker/CVE-2020-10878)",
+                "markdown": "**Vulnerability CVE-2020-10878**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|High|perl-base|5.28.1-6|5.28.1-6+deb10u1|dpkg|pkgdb|debian:10|[CVE-2020-10878](https://security-tracker.debian.org/tracker/CVE-2020-10878)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2020-12723_dpkg_perl-base-5.28.1-6",
+              "shortDescription": {
+                "text": "CVE-2020-12723 Severity=Medium Package=perl-base-5.28.1-6"
+              },
+              "fullDescription": {
+                "text": "CVE-2020-12723 Severity=Medium Package=perl-base-5.28.1-6"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2020-12723\nSeverity: Medium\nPackage: perl-base\nVersion: 5.28.1-6\nFix Version: 5.28.1-6+deb10u1\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2020-12723](https://security-tracker.debian.org/tracker/CVE-2020-12723)",
+                "markdown": "**Vulnerability CVE-2020-12723**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Medium|perl-base|5.28.1-6|5.28.1-6+deb10u1|dpkg|pkgdb|debian:10|[CVE-2020-12723](https://security-tracker.debian.org/tracker/CVE-2020-12723)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2005-2541_dpkg_tar-1.30+dfsg-6",
+              "shortDescription": {
+                "text": "CVE-2005-2541 Severity=Negligible Package=tar-1.30+dfsg-6"
+              },
+              "fullDescription": {
+                "text": "CVE-2005-2541 Severity=Negligible Package=tar-1.30+dfsg-6"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2005-2541\nSeverity: Negligible\nPackage: tar\nVersion: 1.30+dfsg-6\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2005-2541](https://security-tracker.debian.org/tracker/CVE-2005-2541)",
+                "markdown": "**Vulnerability CVE-2005-2541**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|tar|1.30+dfsg-6|None|dpkg|pkgdb|debian:10|[CVE-2005-2541](https://security-tracker.debian.org/tracker/CVE-2005-2541)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_CVE-2019-9923_dpkg_tar-1.30+dfsg-6",
+              "shortDescription": {
+                "text": "CVE-2019-9923 Severity=Negligible Package=tar-1.30+dfsg-6"
+              },
+              "fullDescription": {
+                "text": "CVE-2019-9923 Severity=Negligible Package=tar-1.30+dfsg-6"
+              },
+              "help": {
+                "text": "Vulnerability CVE-2019-9923\nSeverity: Negligible\nPackage: tar\nVersion: 1.30+dfsg-6\nFix Version: None\nType: dpkg\nLocation: pkgdb\nData Namespace: vulnerabilities, debian:10\nLink: [CVE-2019-9923](https://security-tracker.debian.org/tracker/CVE-2019-9923)",
+                "markdown": "**Vulnerability CVE-2019-9923**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|Negligible|tar|1.30+dfsg-6|None|dpkg|pkgdb|debian:10|[CVE-2019-9923](https://security-tracker.debian.org/tracker/CVE-2019-9923)|\n"
+              }
+            },
+            {
+              "id": "ANCHOREVULN_GHSA-x3rh-m7vp-35f2_java_jetty-server-9.4.27.v20200227",
+              "shortDescription": {
+                "text": "GHSA-x3rh-m7vp-35f2 Severity=High Package=jetty-server-9.4.27.v20200227"
+              },
+              "fullDescription": {
+                "text": "GHSA-x3rh-m7vp-35f2 Severity=High Package=jetty-server-9.4.27.v20200227"
+              },
+              "help": {
+                "text": "Vulnerability GHSA-x3rh-m7vp-35f2\nSeverity: High\nPackage: jetty-server\nVersion: 9.4.27.v20200227\nFix Version: 9.4.30.v20200611\nType: java\nLocation: /usr/local/jetty/lib/jetty-server-9.4.27.v20200227.jar\nData Namespace: vulnerabilities, github:java\nLink: [GHSA-x3rh-m7vp-35f2](https://github.com/advisories/GHSA-x3rh-m7vp-35f2)",
+                "markdown": "**Vulnerability GHSA-x3rh-m7vp-35f2**\n| Severity | Package | Version | Fix Version | Type | Location | Data Namespace | Link |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n|High|jetty-server|9.4.27.v20200227|9.4.30.v20200611|java|/usr/local/jetty/lib/jetty-server-9.4.27.v20200227.jar|github:java|[GHSA-x3rh-m7vp-35f2](https://github.com/advisories/GHSA-x3rh-m7vp-35f2)|\n"
+              }
+            }
+          ]
+        }
+      },
+      "logicalLocations": [
+        {
+          "name": "dockerfile",
+          "fullyQualifiedName": "dockerfile",
+          "kind": "namespace"
+        }
+      ],
+      "results": [
+        {
+          "ruleId": "ANCHOREVULN_CVE-2011-3374_dpkg_apt-1.8.2.1",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (apt-1.8.2.1 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-18276_dpkg_bash-5.0-4",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (bash-5.0-4 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2017-18018_dpkg_coreutils-8.30-3",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (coreutils-8.30-3 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2011-3374_dpkg_libapt-pkg5.0-1.8.2.1",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libapt-pkg5.0-1.8.2.1 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2010-4051_dpkg_libc-bin-2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libc-bin-2.28-10 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2010-4052_dpkg_libc-bin-2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libc-bin-2.28-10 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2010-4756_dpkg_libc-bin-2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libc-bin-2.28-10 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2018-20796_dpkg_libc-bin-2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libc-bin-2.28-10 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-1010022_dpkg_libc-bin-2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libc-bin-2.28-10 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-1010023_dpkg_libc-bin-2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libc-bin-2.28-10 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-1010024_dpkg_libc-bin-2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libc-bin-2.28-10 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-1010025_dpkg_libc-bin-2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libc-bin-2.28-10 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-9192_dpkg_libc-bin-2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libc-bin-2.28-10 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2010-4051_dpkg_libc6-2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libc6-2.28-10 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2010-4052_dpkg_libc6-2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libc6-2.28-10 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2010-4756_dpkg_libc6-2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libc6-2.28-10 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2018-20796_dpkg_libc6-2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libc6-2.28-10 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-1010022_dpkg_libc6-2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libc6-2.28-10 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-1010023_dpkg_libc6-2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libc6-2.28-10 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-1010024_dpkg_libc6-2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libc6-2.28-10 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-1010025_dpkg_libc6-2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libc6-2.28-10 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-9192_dpkg_libc6-2.28-10",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libc6-2.28-10 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2018-6829_dpkg_libgcrypt20-1.8.4-5",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libgcrypt20-1.8.4-5 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2011-3389_dpkg_libgnutls30-3.6.7-4+deb10u4",
+          "ruleIndex": 0,
+          "level": "error",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libgnutls30-3.6.7-4+deb10u4 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2017-11164_dpkg_libpcre3-2:8.39-12",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libpcre3-2:8.39-12 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2017-16231_dpkg_libpcre3-2:8.39-12",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libpcre3-2:8.39-12 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2017-7245_dpkg_libpcre3-2:8.39-12",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libpcre3-2:8.39-12 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2017-7246_dpkg_libpcre3-2:8.39-12",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libpcre3-2:8.39-12 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-20838_dpkg_libpcre3-2:8.39-12",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libpcre3-2:8.39-12 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-9893_dpkg_libseccomp2-2.3.3-4",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libseccomp2-2.3.3-4 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2007-6755_dpkg_libssl1.1-1.1.1d-0+deb10u3",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libssl1.1-1.1.1d-0+deb10u3 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2010-0928_dpkg_libssl1.1-1.1.1d-0+deb10u3",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libssl1.1-1.1.1d-0+deb10u3 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2013-4392_dpkg_libsystemd0-241-7~deb10u4",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libsystemd0-241-7~deb10u4 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-20386_dpkg_libsystemd0-241-7~deb10u4",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libsystemd0-241-7~deb10u4 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2020-13776_dpkg_libsystemd0-241-7~deb10u4",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libsystemd0-241-7~deb10u4 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2018-1000654_dpkg_libtasn1-6-4.13-3",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libtasn1-6-4.13-3 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2013-4392_dpkg_libudev1-241-7~deb10u4",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libudev1-241-7~deb10u4 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-20386_dpkg_libudev1-241-7~deb10u4",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libudev1-241-7~deb10u4 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2020-13776_dpkg_libudev1-241-7~deb10u4",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (libudev1-241-7~deb10u4 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2007-5686_dpkg_login-1:4.5-1.1",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (login-1:4.5-1.1 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2013-4235_dpkg_login-1:4.5-1.1",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (login-1:4.5-1.1 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-19882_dpkg_login-1:4.5-1.1",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (login-1:4.5-1.1 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2007-6755_dpkg_openssl-1.1.1d-0+deb10u3",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (openssl-1.1.1d-0+deb10u3 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2010-0928_dpkg_openssl-1.1.1d-0+deb10u3",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (openssl-1.1.1d-0+deb10u3 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2007-5686_dpkg_passwd-1:4.5-1.1",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (passwd-1:4.5-1.1 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2013-4235_dpkg_passwd-1:4.5-1.1",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (passwd-1:4.5-1.1 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-19882_dpkg_passwd-1:4.5-1.1",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (passwd-1:4.5-1.1 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2011-4116_dpkg_perl-base-5.28.1-6",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (perl-base-5.28.1-6 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2020-10543_dpkg_perl-base-5.28.1-6",
+          "ruleIndex": 0,
+          "level": "error",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (perl-base-5.28.1-6 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2020-10878_dpkg_perl-base-5.28.1-6",
+          "ruleIndex": 0,
+          "level": "error",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (perl-base-5.28.1-6 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2020-12723_dpkg_perl-base-5.28.1-6",
+          "ruleIndex": 0,
+          "level": "error",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (perl-base-5.28.1-6 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2005-2541_dpkg_tar-1.30+dfsg-6",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (tar-1.30+dfsg-6 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_CVE-2019-9923_dpkg_tar-1.30+dfsg-6",
+          "ruleIndex": 0,
+          "level": "warning",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (tar-1.30+dfsg-6 type=dpkg)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        },
+        {
+          "ruleId": "ANCHOREVULN_GHSA-x3rh-m7vp-35f2_java_jetty-server-9.4.27.v20200227",
+          "ruleIndex": 0,
+          "level": "error",
+          "message": {
+            "text": "This dockerfile results in a container image that has installed software with a vulnerability: (jetty-server-9.4.27.v20200227 type=java)",
+            "id": "default"
+          },
+          "analysisTarget": {
+            "uri": "Dockerfile",
+            "index": 0
+          },
+          "locations": [
+            {
+              "physicalLocation": {
+                "artifactLocation": {
+                  "uri": "Dockerfile"
+                },
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 1,
+                  "byteOffset": 1,
+                  "byteLength": 1
+                }
+              },
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "dockerfile"
+                }
+              ]
+            }
+          ],
+          "suppressions": [
+            {
+              "kind": "external"
+            }
+          ],
+          "baselineState": "unchanged"
+        }
+      ],
+      "columnKind": "utf16CodeUnits"
+    }
+  ]
+}
